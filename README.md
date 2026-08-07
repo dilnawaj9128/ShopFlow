@@ -86,7 +86,7 @@ The project demonstrates automated CI/CD, code quality analysis, container secur
 ```
 
 ### Stage 1 — Checkout
-Latest source code pull from GitHub repository.
+Latest source code pull from GitHub repository..
 
 ### Stage 2 — SonarQube Analysis
 Static code analysis — bugs, vulnerabilities, code smells, maintainability.
