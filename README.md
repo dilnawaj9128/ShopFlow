@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🛒 ShopFlow
-### End-to-End DevOps CI/CD & GitOps Project
+### End-to-End DevOps CI/CD & GitOps Project.
 
 *Amazon-style e-commerce platform with complete DevOps lifecycle*
 
