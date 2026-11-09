@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center.">
 
 # 🛒 ShopFlow
 ### End-to-End DevOps CI/CD & GitOps Project.
